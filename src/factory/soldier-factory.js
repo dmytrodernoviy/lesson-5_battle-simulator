@@ -1,4 +1,4 @@
-import Soldier from "../../models/soldier";
+import Soldier from "../models/soldier";
 
 let instance = null;
 
